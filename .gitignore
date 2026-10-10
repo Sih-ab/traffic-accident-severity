@@ -1,0 +1,12 @@
+# Dataset - do not upload to GitHub
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoint
+.ipynb_checkpoints/
+
+# Environment variables
+.env
